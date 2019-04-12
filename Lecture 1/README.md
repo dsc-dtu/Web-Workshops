@@ -16,3 +16,7 @@ https://web.stanford.edu/class/cs142/lectures/CSS.pdf
 ## Code for Portfolio App
 
 https://github.com/dsc-dtu/workshop-web-portfolio
+
+## Media Query presentation
+
+https://github.com/dsc-dtu/Web-Workshops/blob/master/Lecture%201/web-workshop-dsc.pdf
