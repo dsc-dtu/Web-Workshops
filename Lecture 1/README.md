@@ -1,9 +1,9 @@
 # Lecture 1
 
-* Web Development Roadmap
-* Introduction to HTML
-* Introduction to CSS
-* Flexbox and Media Queries
+- Web Development Roadmap
+- Introduction to HTML
+- Introduction to CSS
+- Flexbox and Media Queries
 
 ## Introduction to HTML
 
